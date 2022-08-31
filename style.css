@@ -1,0 +1,38 @@
+#corpo{
+    display: flex;
+    align-items: center;
+    height: 100vh;
+    justify-content: center;
+    background-color: rgb(4, 126, 126);
+}
+
+.fundo{
+    background-color: rgb(120, 214, 214);
+    display: flex;
+    align-items: center;
+    height: 50vh;
+    flex-direction: column;
+    align-items:center ;
+    justify-content: center;
+    border: 3px solid white;
+    
+  
+    
+    
+}
+
+h2{
+    margin: 5%;
+    font-size: 10%;
+  
+}
+
+img{
+    padding-left: 15px;
+    align-items: center;
+    width: 80%;
+  
+    border: 3px solid white;
+    
+    
+}
